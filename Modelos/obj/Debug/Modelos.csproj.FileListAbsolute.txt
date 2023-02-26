@@ -1,0 +1,6 @@
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Modelos\bin\Debug\Modelos.dll
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Modelos\bin\Debug\Modelos.pdb
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Modelos\obj\Debug\Modelos.dll
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Modelos\obj\Debug\Modelos.pdb

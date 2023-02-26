@@ -1,0 +1,9 @@
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\bin\Debug\Datos.dll
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\bin\Debug\Datos.pdb
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\bin\Debug\Modelos.dll
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\bin\Debug\Modelos.pdb
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\obj\Debug\Datos.dll
+C:\Users\johan\OneDrive\Documentos\Visual Studio 2022\Proyects\Practica2\Datos\obj\Debug\Datos.pdb
